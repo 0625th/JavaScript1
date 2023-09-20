@@ -20,9 +20,15 @@
   border-radius: 10px;
 }
 
+.btn-shadow {
+  width:100px;
+  height: 50px;
+  margin: 10px;
+  box-shadow: 0 10px 0 #778899;
+}
+
 .btn {
   width:100px;
   height: 50px;
   margin: 10px;
 }
-
